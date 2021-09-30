@@ -1,3 +1,5 @@
+<img src="https://github.com/xerardoo/rick-and-morty-vue3-exercise/workflows/CI/badge.svg?branch=master&event=push" alt="Continuous Integration Status" />
+
 # rick-and-morty
 
 ## Project setup
